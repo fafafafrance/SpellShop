@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Solution Items/">
+    <File Path="coding-conventions.md" />
     <File Path="README.md" />
   </Folder>
   <Project Path="SpellShop/SpellShop.csproj" />
